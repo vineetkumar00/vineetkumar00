@@ -28,6 +28,8 @@
 
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.instagram.com/vineetkumarrr" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<p><a target="_blank" href="https://www.facebook.com/viney.singh.3158652" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vineetkumar00&theme=dark&show_icons=true&locale=en" alt="vineetkumar00" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vineetkumar00&theme=dark" alt="vineetkumar00" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vineetkumar00&show_icons=true&theme=dark&locale=en&layout=compact" alt="vineetkumar00" /></p>
